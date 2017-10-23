@@ -1,2 +1,2 @@
 # hello-world
-test
+Dette er bare en test av hvordan branching og div fungerer
